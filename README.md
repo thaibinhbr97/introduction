@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thaibinhbr97
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning courses on Kaggle and self-teaching Data Analysis with Python Certification on freeCodeCamp
+- 👀 I’m interested in Software Development, Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on building projects and participate in competitions on Kaggle
 - 📫 Reach me at brad.nguyen.uw@gmail.com for a quick chat or just about anything <3. I would love to meet new people anyways :)
 
